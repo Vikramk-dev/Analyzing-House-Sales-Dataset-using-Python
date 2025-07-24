@@ -17,7 +17,9 @@ This project presents an end-to-end **data analysis and visualization** of house
 
 ## 📁 Repository Structure
 ├── housing.csv # Dataset: House sales in King County
+
 ├── House_Sales_in_King_Count_USA.ipynb # Jupyter notebook with full analysis
+
 └── README.md # Project documentation
 
 
