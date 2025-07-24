@@ -67,4 +67,4 @@ This project presents an end-to-end **data analysis and visualization** of house
 - **Grade** and **living area** are strong predictors of price.
 - Certain **zipcodes** consistently have higher median house prices.
 - **Renovated homes** and those with better condition tend to sell for more.
-- 
+---
